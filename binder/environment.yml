@@ -10,6 +10,4 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
-    - scipy.signal
-    - mpl_toolkits.axes_grid1
     - ipywidgets
